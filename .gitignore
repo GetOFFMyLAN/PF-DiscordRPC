@@ -1,0 +1,5 @@
+!/discord-files/*
+!/x64/*
+!/Release/*
+!/ConsoleApplicationRPC/hidden.h
+/.vs/*
